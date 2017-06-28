@@ -1,0 +1,1 @@
+This folder contains a desktop application created with Electron and Vue.js
